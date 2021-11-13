@@ -1,0 +1,21 @@
+.Form{
+    height: 90vh;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    color: #F96D77;
+    font-family:"Calibri";
+    font-weight: bolder;
+    left: 50%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    padding: 10px 93px;
+    color: white;
+    background-color: #F96D77;
+    border-color : #F96D77; 
+    border-radius: 5px;
+    text-decoration: none;
+}
